@@ -1,5 +1,5 @@
 //Nathan McGaughy
-//Peg Solitaire
+//Peg Solver
 
 #include <time.h>
 #include <cstdlib>
